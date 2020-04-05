@@ -1,0 +1,32 @@
+{
+  "ignore": {
+    "left": [
+      {
+        "box_key": "origin_image",
+        "operation": "min",
+        "add": 0
+      }
+    ],
+    "right": [
+      {
+        "box_key": "origin_image",
+        "operation": "max",
+        "add": 0
+      }
+    ],
+    "top": [
+      {
+        "box_key": "origin_image",
+        "operation": "min",
+        "add": 0
+      }
+    ],
+    "bottom": [
+      {
+        "box_key": "origin_image",
+        "operation": "max",
+        "add": 0
+      }
+    ]
+  }
+}

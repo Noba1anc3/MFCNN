@@ -1,3 +1,16 @@
+# Layout Analysis
+## Based on Rules
+Aset of general rules for Information Extraction out of forms is designed and implemented independently.  
+The accuracy rate of key-value pairs on more than 100 customs declaration invoices reaches 98%. 
+
+## Based on Neural Network
+MFCNN based on BERT is reproduced. A series of experiments are carried out in terms of training set requirements,  
+training cost, model generalization, finetune for downstream tasks and parameter tuning.
+
+## Based on Machine Learning
+The experiment of LightGBM Feature Engineering makes the F1 score of one shot learning exceed 0.9.
+
+
 # Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks
 
 ## Documentation

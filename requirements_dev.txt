@@ -10,7 +10,7 @@ MarkupSafe==1.1.1
 Pillow==6.0.0
 Polygon3==3.0.8
 PyWavelets==1.0.3
-PyYAML==5.1
+PyYAML==5.4
 Werkzeug==0.15.4
 absl-py==0.7.1
 argh==0.26.2

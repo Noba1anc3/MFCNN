@@ -49,7 +49,7 @@ kiwisolver==1.1.0
 logzero==1.5.0
 mock==3.0.5
 nltk==3.4.3
-numpy==1.16.3
+numpy==1.22.0
 opencv-python==4.1.0.25
 pathlib==1.0.1
 pathtools==0.1.2

@@ -14,7 +14,7 @@ PyYAML==5.1
 Werkzeug==0.15.4
 absl-py==0.7.1
 argh==0.26.2
-arrow==0.13.2
+arrow==0.15.1
 astor==0.8.0
 baidu-aip==2.2.13.0
 bert-serving-client==1.9.1

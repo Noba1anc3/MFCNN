@@ -89,7 +89,7 @@ videt-protos==2.0.1
 videt-py-conf==1.0.0
 vyper-config==0.3.3
 watchdog==0.9.0
-wheel==0.33.4
+wheel==0.38.1
 whichcraft==0.5.2
 yacs==0.1.6
 matplotlib==3.1.0
